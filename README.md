@@ -32,5 +32,3 @@ What I'd Improve Next
 Add weather and holiday data as additional features
 Try gradient boosting models (XGBoost/LightGBM) for comparison
 Deploy as an interactive dashboard to explore predictions by region/time
-
-Author: Raj Kumar — LinkedIn · GitHub
